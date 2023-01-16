@@ -1,9 +1,9 @@
 body {
     background-color: white;
 }
-span.Akademia {
+.akademia {
     color: #0000ff;
 }
-span.Kurs {
+span.kurs {
     color: #ff0000;
 }
